@@ -1,0 +1,14 @@
+[922444:922444:0303/021250.051388:WARNING:chrome_main_delegate.cc(617)] This is Chrome version 110.0.5481.100 (not a warning)
+[922444:922444:0303/021250.332228:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[922478:922478:0303/021250.455969:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[922444:922444:0303/021250.630294:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[922444:922464:0303/021250.694535:WARNING:net_errors_posix.cc(127)] Unknown error Required key not available (126) mapped to net::ERR_FAILED
+[922444:922444:0303/021300.829317:INFO:CONSOLE(0)] "The resource https://yandex.ru/captchapgrd was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://yandex.kz/maps/org/obshchestvo_sytykh/79058933426/reviews/?ll=39.719819%2C47.225903&z=10 (0)
+[922444:922444:0303/021314.076260:INFO:CONSOLE(0)] "The resource https://yandex.ru/captchapgrd was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://yandex.kz/maps/org/obshchestvo_sytykh/79058933426/reviews/?ll=39.719819%2C47.225903&z=10 (0)
+[922444:922464:0303/021315.026994:WARNING:net_errors_posix.cc(127)] Unknown error Required key not available (126) mapped to net::ERR_FAILED
+[922444:922444:0303/021315.237837:INFO:model_executor_impl.cc(188)] Segmentation model result: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER
+[922444:922444:0303/021315.238351:INFO:model_executor_impl.cc(188)] Segmentation model result: 1 for segment CROSS_DEVICE_USER_SEGMENT
+[922444:922464:0303/021316.031585:WARNING:net_errors_posix.cc(127)] Unknown error Required key not available (126) mapped to net::ERR_FAILED
+[922480:922491:0303/021316.716024:WARNING:sqlite_persistent_store_backend_base.cc(168)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:216 to client_task_runner_.
+[922480:922491:0303/021316.716268:WARNING:sqlite_persistent_store_backend_base.cc(168)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:216 to client_task_runner_.
+[922444:922444:0303/021316.971091:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
